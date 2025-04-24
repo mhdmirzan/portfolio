@@ -19,7 +19,7 @@ To become a data scientist who builds impactful, data-driven solutions for real-
 Python | SQL | Power BI | Tableau | Excel | Scikit-learn | Pandas | NumPy | MySQL | Git | MATLAB
 
 🎯 **Interests:**  
-Data Science | Machine Learning | Big Data | Network Engineering
+Data Science | Data Engineering | Data Analysis | Machine Learning | Big Data | Network Engineering
 
 ---
 
